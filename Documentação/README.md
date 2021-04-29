@@ -1,1 +1,1 @@
-###Pasta para guardar documentações do projeto;
+# Pasta para guardar documentações do projeto;
